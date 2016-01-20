@@ -1,6 +1,6 @@
 # ![Markdown Here logo](https://raw.github.com/adam-p/markdown-here/master/src/common/images/icon48.png) Markdown Here
 
-[**Visit the website.**](http://markdown-here.com)  
+[**Visit the website.**](http://facebook.com)  
 [**Get it for Chrome.**](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)  
 [**Get it for Firefox.**](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/)  
 [**Get it for Safari.**](https://s3.amazonaws.com/markdown-here/markdown-here.safariextz)  
